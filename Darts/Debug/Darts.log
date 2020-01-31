@@ -1,0 +1,5 @@
+﻿  Darts Game.cpp
+C:\Users\User\Desktop\Darts\Darts\Player.h(72,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Darts\Darts\Darts Game.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\Darts\Darts\Player.h(65): warning C4715: 'Player::round': not all control paths return a value
+  Darts.vcxproj -> C:\Users\User\Desktop\Darts\Debug\Darts.exe
